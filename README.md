@@ -1,2 +1,2 @@
 # A-Star
-A* algorithm C++ implementation
+A* search algorithm written in C++ programming language
